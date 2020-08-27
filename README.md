@@ -1,3 +1,3 @@
-# protein-network
+# Summer internship project
 
-Summer internship project
+
