@@ -1,0 +1,15 @@
+ID	Interactor A	ID	Interactor B
+Alt IDs Interactor A
+Alt IDs Interactor B
+Interaction Detection Methods
+Publication 1st Author
+Publication Identifiers
+Taxid Interactor A
+Taxid Interactor B
+Interaction Types
+Source Databases
+Interaction Identifiers Confidence Value
+Presence In Other Species
+Gene Name Interactor A
+Gene Name Interactor B
+
