@@ -1,3 +1,3 @@
-# Protein Network
+# Protein Interaction
 
 > Summer internship project
