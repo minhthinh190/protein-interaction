@@ -1,0 +1,100 @@
+entrez gene:2335	entrez gene:4312	uniprotkb:FINC_HUMAN	uniprotkb:MMP1_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		FN1	MMP1
+entrez gene:840	entrez gene:4214	uniprotkb:CASP7_HUMAN	uniprotkb:M3K1_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	biocarta	-	0.0		CASP7	MAP3K1
+entrez gene:3575	entrez gene:7525	uniprotkb:IL7RA_HUMAN	uniprotkb:YES_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		IL7R	YES1
+entrez gene:581	entrez gene:5590	uniprotkb:BAX_HUMAN	uniprotkb:KPCZ_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		BAX	PRKCZ
+entrez gene:867	entrez gene:2042	uniprotkb:CBL_HUMAN	uniprotkb:EPHA3_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		CBL	EPHA3
+entrez gene:9448	entrez gene:8737	uniprotkb:M4K4_HUMAN	uniprotkb:RIPK1_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		MAP4K4	RIPK1
+entrez gene:2736	entrez gene:4790	uniprotkb:GLI2_HUMAN	uniprotkb:NFKB1_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		GLI2	NFKB1
+entrez gene:9448	entrez gene:10010	uniprotkb:M4K4_HUMAN	uniprotkb:TANK_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	biocarta	-	0.0		MAP4K4	TANK
+entrez gene:6778	entrez gene:7070	uniprotkb:STAT6_HUMAN	uniprotkb:THY1_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		STAT6	THY1
+entrez gene:2798	entrez gene:3357	uniprotkb:GNRHR_HUMAN	uniprotkb:5HT2B_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		GNRHR	HTR2B
+entrez gene:2268	entrez gene:25791	uniprotkb:FGR_HUMAN	uniprotkb:NGEF_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		FGR	NGEF
+entrez gene:1950	entrez gene:2157	uniprotkb:EGF_HUMAN	uniprotkb:FA8_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		EGF	F8
+entrez gene:1386	entrez gene:1019	uniprotkb:ATF2_HUMAN	uniprotkb:CDK4_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		ATF2	CDK4
+entrez gene:50855	entrez gene:9322	uniprotkb:PAR6A_HUMAN	uniprotkb:CIP4_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		PARD6A	TRIP10
+entrez gene:5576	entrez gene:6850	uniprotkb:KAP2_HUMAN	uniprotkb:KSYK_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		PRKAR2A	SYK
+entrez gene:29984	entrez gene:7074	uniprotkb:RHOD_HUMAN	uniprotkb:TIAM1_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		RHOD	TIAM1
+entrez gene:1432	entrez gene:8493	uniprotkb:MK14_HUMAN	uniprotkb:PPM1D_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		MAPK14	PPM1D
+entrez gene:6352	entrez gene:1813	uniprotkb:CCL5_HUMAN	uniprotkb:DRD2_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		CCL5	DRD2
+entrez gene:1230	entrez gene:1813	uniprotkb:CCR1_HUMAN	uniprotkb:DRD2_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		CCR1	DRD2
+entrez gene:4214	entrez gene:9612	uniprotkb:M3K1_HUMAN	uniprotkb:NCOR2_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	biocarta|MI:1014(string)	-	0.0		MAP3K1	NCOR2
+entrez gene:974	entrez gene:6714	uniprotkb:CD79B_HUMAN	uniprotkb:SRC_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		CD79B	SRC
+entrez gene:2798	entrez gene:7201	uniprotkb:GNRHR_HUMAN	uniprotkb:TRFR_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		GNRHR	TRHR
+entrez gene:2335	entrez gene:4316	uniprotkb:FINC_HUMAN	uniprotkb:MMP7_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		FN1	MMP7
+entrez gene:3667	entrez gene:5788	uniprotkb:IRS1_HUMAN	uniprotkb:PTPRC_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		IRS1	PTPRC
+entrez gene:929	entrez gene:2736	uniprotkb:CD14_HUMAN	uniprotkb:GLI2_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		CD14	GLI2
+entrez gene:5871	entrez gene:4690	uniprotkb:M4K2_HUMAN	uniprotkb:NCK1_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		MAP4K2	NCK1
+entrez gene:5577	entrez gene:5829	uniprotkb:KAP3_HUMAN	uniprotkb:PAXI_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	biocarta	-	0.0		PRKAR2B	PXN
+entrez gene:397	entrez gene:29984	uniprotkb:GDIR2_HUMAN	uniprotkb:RHOD_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		ARHGDIB	RHOD
+entrez gene:637	entrez gene:4217	uniprotkb:BID_HUMAN	uniprotkb:M3K5_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	biocarta|MI:1014(string)	-	0.0		BID	MAP3K5
+entrez gene:2335	entrez gene:6850	uniprotkb:FINC_HUMAN	uniprotkb:KSYK_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		FN1	SYK
+entrez gene:2048	entrez gene:2268	uniprotkb:EPHB2_HUMAN	uniprotkb:FGR_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		EPHB2	FGR
+entrez gene:695	entrez gene:6714	uniprotkb:BTK_HUMAN	uniprotkb:SRC_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		BTK	SRC
+entrez gene:10663	entrez gene:1813	uniprotkb:CXCR6_HUMAN	uniprotkb:DRD2_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		CXCR6	DRD2
+entrez gene:1436	entrez gene:5770	uniprotkb:CSF1R_HUMAN	uniprotkb:PTN1_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		CSF1R	PTPN1
+entrez gene:5781	entrez gene:7525	uniprotkb:PTN11_HUMAN	uniprotkb:YES_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		PTPN11	YES1
+entrez gene:1675	entrez gene:2335	uniprotkb:CFAD_HUMAN	uniprotkb:FINC_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		CFD	FN1
+entrez gene:1020	entrez gene:5576	uniprotkb:CDK5_HUMAN	uniprotkb:KAP2_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		CDK5	PRKAR2A
+entrez gene:1020	entrez gene:10971	uniprotkb:CDK5_HUMAN	uniprotkb:1433T_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		CDK5	YWHAQ
+entrez gene:8737	entrez gene:7048	uniprotkb:RIPK1_HUMAN	uniprotkb:TGFR2_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		RIPK1	TGFBR2
+entrez gene:4233	entrez gene:5340	uniprotkb:MET_HUMAN	uniprotkb:PLMN_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		MET	PLG
+entrez gene:2241	entrez gene:6776	uniprotkb:FER_HUMAN	uniprotkb:STA5A_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		FER	STAT5A
+entrez gene:396	entrez gene:29984	uniprotkb:GDIR1_HUMAN	uniprotkb:RHOD_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		ARHGDIA	RHOD
+entrez gene:2322	entrez gene:5292	uniprotkb:FLT3_HUMAN	uniprotkb:PIM1_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		FLT3	PIM1
+entrez gene:3560	entrez gene:3667	uniprotkb:IL2RB_HUMAN	uniprotkb:IRS1_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	biocarta|MI:1014(string)	-	0.0		IL2RB	IRS1
+entrez gene:1759	entrez gene:3059	uniprotkb:DYN1_HUMAN	uniprotkb:HCLS1_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		DNM1	HCLS1
+entrez gene:958	entrez gene:4791	uniprotkb:TNR5_HUMAN	uniprotkb:NFKB2_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		CD40	NFKB2
+entrez gene:9564	entrez gene:5979	uniprotkb:BCAR1_HUMAN	uniprotkb:RET_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		BCAR1	RET
+entrez gene:2769	entrez gene:10681	uniprotkb:GNA15_HUMAN	uniprotkb:GBB5_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		GNA15	GNB5
+entrez gene:409	entrez gene:2736	uniprotkb:ARRB2_HUMAN	uniprotkb:GLI2_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		ARRB2	GLI2
+entrez gene:5296	entrez gene:9101	uniprotkb:P85B_HUMAN	uniprotkb:UBP8_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		PIK3R2	USP8
+entrez gene:3606	entrez gene:3556	uniprotkb:IL18_HUMAN	uniprotkb:IL1AP_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		IL18	IL1RAP
+entrez gene:2045	entrez gene:2268	uniprotkb:EPHA7_HUMAN	uniprotkb:FGR_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		EPHA7	FGR
+entrez gene:23433	entrez gene:7409	uniprotkb:RHOQ_HUMAN	uniprotkb:VAV_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		RHOQ	VAV1
+entrez gene:5054	entrez gene:7046	uniprotkb:PAI1_HUMAN	uniprotkb:TGFR1_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		SERPINE1	TGFBR1
+entrez gene:2064	entrez gene:100124696	uniprotkb:ERBB2_HUMAN	-	-		-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		ERBB2	TEC
+entrez gene:8491	entrez gene:8717	uniprotkb:M4K3_HUMAN	uniprotkb:TRADD_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		MAP4K3	TRADD
+entrez gene:53944	entrez gene:7531	uniprotkb:KC1G1_HUMAN	uniprotkb:1433E_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		CSNK1G1	YWHAE
+entrez gene:2921	entrez gene:1813	uniprotkb:CXCL3_HUMAN	uniprotkb:DRD2_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		CXCL3	DRD2
+entrez gene:1759	entrez gene:4851	uniprotkb:DYN1_HUMAN	uniprotkb:NOTC1_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		DNM1	NOTCH1
+entrez gene:8874	entrez gene:2549	uniprotkb:ARHG7_HUMAN	uniprotkb:GAB1_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		ARHGEF7	GAB1
+entrez gene:2047	entrez gene:3055	uniprotkb:EPHB1_HUMAN	uniprotkb:HCK_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		EPHB1	HCK
+entrez gene:8525	entrez gene:5337	uniprotkb:DGKZ_HUMAN	uniprotkb:PLD1_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		DGKZ	PLD1
+entrez gene:6366	entrez gene:1813	uniprotkb:CCL21_HUMAN	uniprotkb:DRD2_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		CCL21	DRD2
+entrez gene:6850	entrez gene:7094	uniprotkb:KSYK_HUMAN	uniprotkb:TLN1_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		SYK	TLN1
+entrez gene:1508	entrez gene:3479	uniprotkb:CATB_HUMAN	uniprotkb:IGF1B_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		CTSB	IGF1
+entrez gene:5607	entrez gene:6774	uniprotkb:MP2K5_HUMAN	uniprotkb:STAT3_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		MAP2K5	STAT3
+entrez gene:3308	entrez gene:4342	uniprotkb:HSP74_HUMAN	uniprotkb:MOS_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		HSPA4	MOS
+entrez gene:1950	entrez gene:4312	uniprotkb:EGF_HUMAN	uniprotkb:MMP1_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		EGF	MMP1
+entrez gene:5494	entrez gene:5563	uniprotkb:PPM1A_HUMAN	uniprotkb:AAPK2_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		PPM1A	PRKAA2
+entrez gene:147	entrez gene:2798	uniprotkb:ADA1B_HUMAN	uniprotkb:GNRHR_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		ADRA1B	GNRHR
+entrez gene:8772	entrez gene:9448	uniprotkb:FADD_HUMAN	uniprotkb:M4K4_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	biocarta	-	0.0		FADD	MAP4K4
+entrez gene:1453	entrez gene:7533	uniprotkb:KC1D_HUMAN	uniprotkb:1433F_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		CSNK1D	YWHAH
+entrez gene:1675	entrez gene:4851	uniprotkb:CFAD_HUMAN	uniprotkb:NOTC1_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		CFD	NOTCH1
+entrez gene:3815	entrez gene:7422	uniprotkb:KIT_HUMAN	uniprotkb:VEGFA_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		KIT	VEGFA
+entrez gene:30835	entrez gene:3687	uniprotkb:CD209_HUMAN	uniprotkb:ITAX_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		CD209	ITGAX
+entrez gene:5163	entrez gene:5170	uniprotkb:PDK1_HUMAN	uniprotkb:PDPK1_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		PDK1	PDPK1
+entrez gene:330	entrez gene:4217	uniprotkb:BIRC3_HUMAN	uniprotkb:M3K5_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		BIRC3	MAP3K5
+entrez gene:1237	entrez gene:1813	uniprotkb:CCR8_HUMAN	uniprotkb:DRD2_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		CCR8	DRD2
+entrez gene:2044	entrez gene:3055	uniprotkb:EPHA5_HUMAN	uniprotkb:HCK_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		EPHA5	HCK
+entrez gene:54331	entrez gene:3358	uniprotkb:GBG2_HUMAN	uniprotkb:5HT2C_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		GNG2	HTR2C
+entrez gene:1453	entrez gene:5577	uniprotkb:KC1D_HUMAN	uniprotkb:KAP3_HUMAN	-	-	MI:0004(affinity chromatography technology)|MI:0007(anti tag coimmunoprecipitation)	Hein MY (2015)|Huttlin EL (2017)	pubmed:26496610|pubmed:28514442	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)|biogrid|MI:0469(intact)	-	0.82		CSNK1D	PRKAR2B
+entrez gene:8826	entrez gene:5577	uniprotkb:IQGA1_HUMAN	uniprotkb:KAP3_HUMAN	-	-	-		-	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	MI:1014(string)	-	0.0		IQGAP1	PRKAR2B
+entrez gene:9787	entrez gene:23281	uniprotkb:DLGP5_HUMAN	uniprotkb:MTUS2_HUMAN	-	-	MI:0018(two hybrid)	Rolland T (2014)	pubmed:25416956	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	biogrid|MI:0469(intact)	-	0.63		DLGAP5	MTUS2
+entrez gene:6714	entrez gene:7157	uniprotkb:SRC_HUMAN	uniprotkb:P53_HUMAN	-	-	MI:0415(enzymatic study)	Huang YF (2014)	pubmed:25071020	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	biogrid	-	0.52		SRC	TP53
+entrez gene:10618	entrez gene:55127	uniprotkb:TGON2_HUMAN	uniprotkb:HEAT1_HUMAN	-	-	MI:0004(affinity chromatography technology)	Huttlin EL (2015)	pubmed:26186194	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	biogrid	-	0.63		TGOLN2	HEATR1
+entrez gene:55584	entrez gene:84514	uniprotkb:ACHA9_HUMAN	uniprotkb:GHDC_HUMAN	-	-	MI:0004(affinity chromatography technology)	Huttlin EL (2015)|Huttlin EL (2017)	pubmed:26186194|pubmed:28514442	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	biogrid	-	0.73		CHRNA9	GHDC
+entrez gene:9584	entrez gene:285672	uniprotkb:RBM39_HUMAN	uniprotkb:S12IP_HUMAN	-	-	MI:0018(two hybrid)	Rolland T (2014)	pubmed:25416956	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	biogrid	-	0.63		RBM39	SREK1IP1
+entrez gene:23281	entrez gene:128439	uniprotkb:MTUS2_HUMAN	uniprotkb:SNH11_HUMAN	-	-	MI:0018(two hybrid)	Rolland T (2014)	pubmed:25416956	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	biogrid	-	0.63		MTUS2	SNHG11
+entrez gene:9146	entrez gene:84289	uniprotkb:HGS_HUMAN	uniprotkb:ING5_HUMAN	-	-	MI:0018(two hybrid)	Rolland T (2014)	pubmed:25416956	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	biogrid|MI:0469(intact)	-	0.63		HGS	ING5
+entrez gene:80864	entrez gene:4189	uniprotkb:EGFL8_HUMAN	uniprotkb:DNJB9_HUMAN	-	-	MI:0004(affinity chromatography technology)	Huttlin EL (2015)|Huttlin EL (2017)	pubmed:26186194|pubmed:28514442	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	biogrid	-	0.73		EGFL8	DNAJB9
+entrez gene:2212	entrez gene:8411	uniprotkb:FCG2A_HUMAN	uniprotkb:EEA1_HUMAN	-	-	MI:0004(affinity chromatography technology)	Huttlin EL (2015)|Huttlin EL (2017)	pubmed:26186194|pubmed:28514442	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	biogrid	-	0.73		FCGR2A	EEA1
+entrez gene:64795	entrez gene:51186	uniprotkb:RMD5A_HUMAN	uniprotkb:WBP5_HUMAN	-	-	MI:0004(affinity chromatography technology)	Huttlin EL (2015)|Huttlin EL (2017)	pubmed:26186194|pubmed:28514442	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	biogrid	-	0.73		RMND5A	TCEAL9
+entrez gene:55327	entrez gene:143098	uniprotkb:LIN7C_HUMAN	uniprotkb:MPP7_HUMAN	-	-	MI:0004(affinity chromatography technology)	Huttlin EL (2015)|Huttlin EL (2017)	pubmed:26186194|pubmed:28514442	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	biogrid	-	0.73		LIN7C	MPP7
+entrez gene:10628	entrez gene:5970	uniprotkb:TXNIP_HUMAN	uniprotkb:TF65_HUMAN	-	-	MI:0004(affinity chromatography technology)	Kwon HJ (2010)	pubmed:20826751	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	biogrid	-	0.63		TXNIP	RELA
+entrez gene:9028	entrez gene:260425	uniprotkb:RHBL1_HUMAN	uniprotkb:MAGI3_HUMAN	-	-	MI:0004(affinity chromatography technology)	Huttlin EL (2015)|Huttlin EL (2017)	pubmed:26186194|pubmed:28514442	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	biogrid	-	0.73		RHBDL1	MAGI3
+entrez gene:3881	entrez gene:5682	uniprotkb:K1H1_HUMAN	uniprotkb:PSA1_HUMAN	-	-	MI:0018(two hybrid)	Rolland T (2014)	pubmed:25416956	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	biogrid|MI:0469(intact)	-	0.63		KRT31	PSMA1
+entrez gene:1962	entrez gene:221504	uniprotkb:ECHP_HUMAN	uniprotkb:ZBTB9_HUMAN	-	-	MI:0018(two hybrid)	Rolland T (2014)	pubmed:25416956	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	biogrid|MI:0469(intact)	-	0.63		EHHADH	ZBTB9
+entrez gene:398	entrez gene:645455	uniprotkb:GDIR3_HUMAN	uniprotkb:C170L_HUMAN	-	-	MI:0018(two hybrid)	Rolland T (2014)	pubmed:25416956	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	biogrid|MI:0469(intact)	-	0.63		ARHGDIG	CEP170P1
+entrez gene:7111	entrez gene:9882	uniprotkb:TMOD1_HUMAN	uniprotkb:TBCD4_HUMAN	-	-	MI:0004(affinity chromatography technology)	Huttlin EL (2015)|Huttlin EL (2017)	pubmed:26186194|pubmed:28514442	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	biogrid	-	0.73		TMOD1	TBC1D4
+entrez gene:4738	entrez gene:28318	uniprotkb:NEDD8_HUMAN	-	-		MI:0004(affinity chromatography technology)	Bennett EJ (2010)	pubmed:21145461	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	-	biogrid	-	0.63		NEDD8	IGHV3OR15-7
